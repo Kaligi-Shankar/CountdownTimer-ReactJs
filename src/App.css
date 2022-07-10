@@ -1,5 +1,20 @@
 .App {
   text-align: center;
+ 
+}
+thead{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  
+}
+
+.timings{
+  font-size: 50px;
+}
+td{
+  background-color: black;
+  
 }
 
 .App-logo {
